@@ -1,0 +1,6 @@
+#!usr/bin/env ruby
+require './lib/'
+
+Prmatches::CLI.new.call
+
+
